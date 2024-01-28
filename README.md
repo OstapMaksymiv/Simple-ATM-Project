@@ -8,8 +8,6 @@ Welcome to the Virtual ATM System! This project simulates an ATM, allowing users
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
